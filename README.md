@@ -1,12 +1,16 @@
 # AgriTech-Chatbot-with-LLama3.2
 **Overview**
+
 The AI AgriTech Agent is a specialized digital assistant built to help farmers diagnose and manage plant diseases through actionable treatment recommendations. Powered by a large language model (LLM) – in this case, the LLama 3.2 model – it provides real-time, interactive advice tailored to the needs of modern agriculture. The agent is designed to function within a Jupyter Notebook environment, making it accessible and interactive for users who require up-to-date insights into crop health.
 
 **Key Features**
+
+
 Real-Time Interaction:
 The agent leverages streaming responses to ensure that farmers receive continuous, real-time feedback as they input queries about crop diseases.
 
 **User-Centric Conversational Interface:**
+
 With a focus on usability, the interactive chat system maintains a dynamic conversation history, providing context and clarity throughout the discussion.
 
 **Multilingual Support:**
@@ -29,6 +33,7 @@ Jupyter Notebook Display:
 Using IPython.display functions, the agent clears and updates the display dynamically. This ensures that the user interface remains clean and the latest responses are highlighted.
 
 **Workflow**
+
 User Query:
 The farmer enters a query regarding a specific plant disease, such as "potato early blight."
 
